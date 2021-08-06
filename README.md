@@ -3,7 +3,10 @@
 ![Alt Text](./creamy.gif?s=200)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arafat Alim</h1>
-<h3 align="center">I'm a Passionate Full Stack Web Developer from India.</h3>
+
+<h2 align="center">Glad to see You Here! 🤩</h2>
+
+<h3 align="center">I'm a passionate 💖 Full Stack Web Developer from India. I have worked with Languages like JAVA, React, HTML5, CSS, bootStrap and JavaScript. Checkout my repositories for some cool projects that I have done.</h3>
 
 ## 🙋‍♂️ About Me
 
