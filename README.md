@@ -65,3 +65,5 @@
     <img src="https://komarev.com/ghpvc/?username=Arafat-alim">
 </a>
 <a href="https://github.com/Arafat-alim?tab=followers"><img src="https://img.shields.io/github/followers/Arafat-alim?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<p align="left"> <a href="https://twitter.com/coderalim" target="blank"><img src="https://img.shields.io/twitter/follow/coderalim?logo=twitter&style=for-the-badge" alt="coderalim" /></a> </p>
