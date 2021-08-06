@@ -2,7 +2,7 @@
 
 ![Alt Text](./creamy.gif?s=200)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arafat</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arafat Alim</h1>
 <h3 align="center">I'm a Passionate Full Stack Web Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
