@@ -8,7 +8,7 @@
 
 ## 🤩 Glad to see You Here!
 
-_Pursued Bachelor's in **Computer Science and Engineering** from Budge Budge Institute of Technology._ I'm a Passionate learner who's always willing to learn and work across **Technologies** and **Domains**. I love to explore new **Technologies and Leverage** them to **solve Real-life Problems**. I'm currently into _Full Stack MERN Web Development_. I have worked with Languages like _Java, ReactJS, HTML5, CSS3, Bootstrap and JavaScript_. Check out my _Repositories_ for some more _cool projects_ that i have done.
+_Pursued Bachelor's in **Computer Science and Engineering** from Budge Budge Institute of Technology. I'm a Passionate learner who's always willing to learn and work across **Technologies** and **Domains**. I love to explore new **Technologies and Leverage** them to **solve Real-life Problems**. I'm currently into Full Stack MERN Web Development. I have worked with Languages like Java, ReactJS, HTML5, CSS3, Bootstrap and JavaScript. Check out my **Repositories** for some more cool projects that i have done._
 
 ## 🙋‍♂️ About Me
 
