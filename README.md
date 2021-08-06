@@ -4,9 +4,11 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arafat Alim</h1>
 
-<h2 align="center">Glad to see You Here! 🤩</h2>
+<h2 align="center"></h2>
 
-<h3 align="center">I'm a passionate 💖 Full Stack Web Developer from India. I have worked with Languages like JAVA, React, HTML5, CSS, bootStrap and JavaScript. Checkout my repositories for some cool projects that I have done.</h3>
+## 🤩 Glad to see You Here!
+
+_Persued Bachelor's in **Computer Science and Engineering** from Budge Budge Institute of Technology._ I'm a Passionate learner who's always willing to learn and work across **Technologies** and **Domains**. I love to explore new **Technologies and Leverage** them to **solve Real-life Problems**. I'm currently into _Full Stack MERN Web Development_. I have worked with Languages like _Java, ReactJS, HTML5, CSS3, Bootstrap and JavaScript_. Check out my _Repositories_ for some more _cool projects_ that i have done.
 
 ## 🙋‍♂️ About Me
 
