@@ -20,7 +20,9 @@ _Pursued Bachelor's in **Computer Science and Engineering** from Budge Budge Ins
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://arafat-alim.github.io/JavaScriptProjects/)**
 
-- 📫 How to reach me **[LinkedIn (Preferable)](https://www.linkedin.com/in/arafat-alim/)**
+- 📫 How to reach me? : **[LinkedIn (Preferable)](https://www.linkedin.com/in/arafat-alim/)**
+
+- 💬 Ask me about **I would be glad to help(If I could✨)**
 
 - ⚡ Fun fact **I play Video Games, Listen Musics, Read Latest Technology Articles And Blogs**
 
