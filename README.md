@@ -24,7 +24,7 @@ _Pursued Bachelor's in **Computer Science and Engineering** from Budge Budge Ins
 
 - 💬 Ask me about **I would be glad to help(If I could✨)**
 
-- ⚡ Fun fact **I play Video Games, Listen Musics, Read Latest Technology Articles And Blogs**
+- ⚡ Fun fact **I Play Video Games, Listening music , Read Latest Technology Articles And Blogs**
 
 ## 🚀 Languages and Tools:
 
