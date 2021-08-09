@@ -1,6 +1,6 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-![Alt Text](./creamy.gif?s=200)
+![Alt Text](./coolboy.gif?s=200)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arafat Alim 🇮🇳</h1>
 
