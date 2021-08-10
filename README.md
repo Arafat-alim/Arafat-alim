@@ -8,13 +8,13 @@
 
 ## 🤩 Glad to see You Here!
 
-_Pursued Bachelor's in **Computer Science and Engineering** from Budge Budge Institute of Technology. I'm a Passionate learner who's always willing to learn and work across **Technologies** and **Domains**. I love to explore new **Technologies and Leverage** them to **solve Real-life Problems**. I'm currently into Full Stack MERN Web Development. I have worked with Languages like Java, ReactJS, HTML5, CSS3, Bootstrap and JavaScript. Check out my **Repositories** for some more cool projects that i have done._
+_Pursued Bachelor's in **Computer Science and Engineering** from **Budge Budge Institute of Technology**. I'm a Passionate learner who's always willing to learn and work across **Technologies** and **Domains**. I love to explore new **Technologies and Leverage** them to **solve Real-life Problems**. I'm currently into Full Stack MERN Web Development. I have worked with Languages like Java, ReactJS, HTML5, CSS3, Bootstrap and JavaScript. Check out my **Repositories** for some more cool projects that i have done._
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently Exploring on **Javascript.**
 
-- 🌱 I’m currently learning **ReactJS and Redux.**
+- 🌱 I’m currently learning **Redux and NodeJS.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -22,9 +22,7 @@ _Pursued Bachelor's in **Computer Science and Engineering** from Budge Budge Ins
 
 - 📫 How to reach me? : **[LinkedIn (Preferable)](https://www.linkedin.com/in/arafat-alim/)**
 
-- 💬 Ask me about **I would be glad to help(If I could✨)**
-
-- ⚡ Fun fact **I Play Video Games, Listening music , Read Latest Technology Articles And Blogs**
+- ⚡ Fun fact **I Play Video Games, Listening music, Read Latest Technology Articles And Blogs**
 
 ## 🚀 Languages and Tools:
 
