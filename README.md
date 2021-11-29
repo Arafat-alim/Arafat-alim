@@ -20,7 +20,7 @@ _Pursued Bachelor's in **Computer Science and Engineering** from **Budge Budge I
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://arafat-my-portfolio.netlify.app/?target=_blank)**
 
-- 📫 How to reach me? : **[LinkedIn (Preferable)](https://www.linkedin.com/in/arafat-alim/){:target="_blank"}**
+- 📫 How to reach me? : **[LinkedIn (Preferable)](https://www.linkedin.com/in/arafat-alim/)**
 
 - ⚡ Fun fact **I Play Video Games, Listening music, Read Latest Technology Articles And Blogs**
 
