@@ -72,3 +72,9 @@ _Pursued Bachelor's in **Computer Science and Engineering** from **Budge Budge I
 <a href="https://github.com/Arafat-alim?tab=followers"><img src="https://img.shields.io/github/followers/Arafat-alim?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <p align="left"> <a href="https://twitter.com/coderalim" target="blank"><img src="https://img.shields.io/twitter/follow/coderalim?logo=twitter&style=for-the-badge" alt="coderalim" /></a> </p>
+
+<br/>
+<br/>
+
+<img height="120" alt="Thanks for visiting me. Please follow !" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> 
+<br/>
