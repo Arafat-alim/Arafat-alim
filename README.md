@@ -2,7 +2,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 <div align="center">
-  <img src="./coolboy.gif?s=200" alt="Animated GIF" width="200" height="200">
+  <img src="./coolboy.gif?s=200" alt="Animated GIF" width="100%" height="auto">
 </div>
 
 
