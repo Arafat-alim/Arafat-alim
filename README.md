@@ -35,10 +35,10 @@ A highly motivated and results-driven Full Stack Developer with 2+ years of expe
 
 ## 🤝 Ready for Collaboration & Job Offers
 
-💼 Looking to bring innovation and expertise to your team? Let's create amazing projects together!  
-📨 I am actively seeking **collaboration opportunities** and **job offers** in Full Stack Development, Mobile Development, and Cloud Integration. 
-🤩 Passionate about solving challenges, crafting top-notch solutions, and driving impactful results.  
-✨ Let's connect and discuss how I can contribute to your vision! 🚀
+- 💼 Looking to bring innovation and expertise to your team? Let's create amazing projects together!  
+- 📨 I am actively seeking **collaboration opportunities** and **job offers** in Full Stack Development, Mobile Development, and Cloud Integration. 
+- 🤩 Passionate about solving challenges, crafting top-notch solutions, and driving impactful results.  
+- ✨ Let's connect and discuss how I can contribute to your vision! 🚀
 
 ---
 
