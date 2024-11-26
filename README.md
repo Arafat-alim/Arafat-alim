@@ -33,6 +33,16 @@
 A highly motivated and results-driven Full Stack Developer with 2+ years of experience in building and maintaining scalable, user-centric web and mobile applications. Proficient in **MERN stack**  with a strong foundation in **JavaScript, TypeScript, React, Node.js, Express.js, and databases (PostgreSQL, MongoDB)**. Passionate about crafting seamless user experiences and leveraging cutting-edge technologies to solve real-world problems. Proven ability to lead development efforts, optimize performance, and deliver high-quality solutions within deadlines.  I thrive in collaborative environments and enjoy contributing to innovative projects. Eager to contribute my expertise and passion to a challenging role in a forward-thinking organization.
 
 
+## 🤝 Ready for Collaboration & Job Offers
+
+💼 Looking to bring innovation and expertise to your team? Let's create amazing projects together!  
+📨 I am actively seeking **collaboration opportunities** and **job offers** in Full Stack Development, Mobile Development, and Cloud Integration. 
+🤩 Passionate about solving challenges, crafting top-notch solutions, and driving impactful results.  
+✨ Let's connect and discuss how I can contribute to your vision! 🚀
+
+---
+
+
 ## 🌱 What I'm Learning Now
 
 * **Advanced GraphQL Concepts:** Exploring schema stitching, federation, and performance optimization techniques.
