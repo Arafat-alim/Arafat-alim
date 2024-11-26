@@ -1,77 +1,89 @@
+
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-![Alt Text](./coolboy.gif?s=200)
+<div align="center">
+  <img src="./coolboy.gif?s=200" alt="Animated GIF" width="200" height="200">
+</div>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arafat Alim 🇮🇳</h1>
 
-<h2 align="center"></h2>
+<h1 align="center">Hi 👋, I'm Arafat Aman Alim</h1>
 
-## 🤩 Glad to see You Here!
 
-_Pursued Bachelor's in **Computer Science and Engineering** from **Budge Budge Institute of Technology**. I'm a Passionate learner who's always willing to learn and work across **Technologies** and **Domains**. I love to explore new **Technologies and Leverage** them to **solve Real-life Problems**. I'm currently into Full Stack MERN Web Development. I have worked with Languages like Java, ReactJS, HTML5, CSS3, Bootstrap and JavaScript. Check out my **Repositories** for some more cool projects that i have done._
-
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently Exploring on **Javascript.**
-
-- 🌱 I’m currently learning **Redux and NodeJS.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://arafat-my-portfolio.netlify.app)**
-
-- 📫 How to reach me? : **[LinkedIn (Preferable)](https://www.linkedin.com/in/arafat-alim/)**
-
-- ⚡ Fun fact **I Play Video Games, Listening music, Read Latest Technology Articles And Blogs**
-
-## 🚀 Languages and Tools:
-
-<p align="left"> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+<h3 align="center">Full Stack Developer | Crafting Seamless User Experiences</h3>
 
 <p align="center">
-    <a href="https://github.com/Arafat-alim/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arafat-alim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Arafat-alim&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/Arafat-alim/github-readme-stats"><img alt="Arafat-alim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Arafat-alim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Arafat-alim/github-readme-stats"><img alt="Arafat-alim's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafat-alim&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
-<a href="https://github.com/Arafat-alim/github-readme-activity-graph"><img alt="Arafat-alim's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Arafat-alim&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-
-<p align="left">
-<a href="https://twitter.com/coderalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coderalim" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arafat-alim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arafat-alim" height="30" width="40" /></a>
-<a href="https://fb.com/arfatalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arfatalim" height="30" width="40" /></a>
-<a href="https://instagram.com/arfat.alim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arfat.alim" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uckixizgpzhmdagut6sx7dda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uckixizgpzhmdagut6sx7dda" height="30" width="40" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/arafat-aman-alim-7607041a2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:arafat.aman.alim@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://dev-arafat-alim.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a> 
+   <a href="./Arafat_Aman_Alim_Resume.pdf" download><img alt="Resume" src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobe-acrobat-reader" /></a>
 
 </p>
 
-## ❤ Views and Followers
 
-<a href="https://github.com/Arafat-alim/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Arafat-alim">
-</a>
-<a href="https://github.com/Arafat-alim?tab=followers"><img src="https://img.shields.io/github/followers/Arafat-alim?label=Followers&style=social" alt="GitHub Badge"></a>
+## ✨ About Me
 
-<p align="left"> <a href="https://twitter.com/coderalim" target="blank"><img src="https://img.shields.io/twitter/follow/coderalim?logo=twitter&style=for-the-badge" alt="coderalim" /></a> </p>
+A highly motivated and results-driven Full Stack Developer with 2+ years of experience in building and maintaining scalable, user-centric web and mobile applications. Proficient in **MERN stack**  with a strong foundation in **JavaScript, TypeScript, React, Node.js, Express.js, and databases (PostgreSQL, MongoDB)**. Passionate about crafting seamless user experiences and leveraging cutting-edge technologies to solve real-world problems. Proven ability to lead development efforts, optimize performance, and deliver high-quality solutions within deadlines.  I thrive in collaborative environments and enjoy contributing to innovative projects. Eager to contribute my expertise and passion to a challenging role in a forward-thinking organization.
 
-<img height="120" alt="Thanks for visiting me. Please follow !" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> 
+
+## 🎯 Skills
+
+**Frontend:** React, Next.js, Redux, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, Material UI, Responsive Design
+
+**Backend:** Node.js, Express.js, RESTful APIs, JWT Authentication, Clerk, Serverless Functions (AWS Lambda), GraphQL
+
+**Databases:** PostgreSQL, MongoDB, MySQL, Firebase
+
+**Cloud & DevOps:** AWS (EC2, Lambda, EventBridge, S3), Git, GitHub, CI/CD, Docker, Jenkins, Github Actions
+
+**Mobile:** React Native (Android & iOS)
+
+**Tools:** Postman, Sentry, Jest, Mocha, ESLint, Prettier
+
+
+## 💼 Experience
+
+**Full Stack Developer** | **Betalectic IT Pvt Ltd** | Hyderabad, India | Mar 2023 - May 2024
+
+* Developed and maintained core features for the **Finezzy Mobile App** using React Native, resulting in a 15% increase in user engagement.
+* Led the development of a **data visualization tool** using AWS Lambda and Event Bridge, automating daily reporting and improving efficiency by 20%.
+* Spearheaded performance enhancements for web and mobile applications, leading to a 10% reduction in page load times and a 5% increase in conversion rates.
+* Optimized **PostgreSQL** queries, reducing database response times by 25% and improving overall system stability.
+
+
+**Senior Associate Developer** | **Genpact India** | Hyderabad, India | Dec 2021 - Jul 2022
+
+* Contributed to the development of an **Asset Management System** using HTML, CSS, Bootstrap, .NET Core, and MySQL, improving asset tracking efficiency by 15%.
+* Collaborated with cross-functional teams to integrate front-end features with backend APIs, ensuring seamless data flow and user experience.
+* Implemented **UI/UX enhancements** based on user feedback, resulting in a 10% increase in user satisfaction.
+
+
+## 🌱 What I'm Learning Now
+
+* **Advanced GraphQL Concepts:** Exploring schema stitching, federation, and performance optimization techniques.
+* **Microservices Architecture:**  Deepening my understanding of building and deploying scalable microservices using Docker and Kubernetes.  
+* **Web3 Development:** Learning the fundamentals of blockchain technology and exploring decentralized application development.
+
+
+<!-- ## 📈 GitHub Stats 
+<div align = "center">
+  <a href="https://github.com/Arafat-alim">
+    <img src="https://github-readme-stats.vercel.app/api?username=Arafat-alim&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Arafat's GitHub stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arafat-alim&theme=radical" alt="Arafat's GitHub streak"/>
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Arafat-alim&layout=compact" alt = "Arafat's Top Langs"/>
+  </a>
+</div>
+-->
+
 <br/>
+
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arafat-aman-alim-7607041a2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/coderalim"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>
+
+
+---
+⭐️ From Arafat Alim with ❤️ 
