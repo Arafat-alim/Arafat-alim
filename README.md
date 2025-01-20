@@ -2,7 +2,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 <div align="center">
-  <img src="https://res.cloudinary.com/cocoder/image/upload/v1732647555/Coding-gif/8b35fef55fba1a201c9c7a11d3ec3d64_fkay5k.gif" alt="Animated GIF" width="100%" height="auto">
+  <img src="[https://res.cloudinary.com/cocoder/image/upload/v1732647555/Coding-gif/8b35fef55fba1a201c9c7a11d3ec3d64_fkay5k.gif](https://res.cloudinary.com/cocoder/image/upload/v1737403412/Coding-gif/fbc6f31bd3b84159470b973aca7e0f97_jqykwv.gif)" alt="Animated GIF" width="100%" height="auto">
 </div>
 
 
